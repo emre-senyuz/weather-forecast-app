@@ -47,4 +47,5 @@ Weather values are model estimates, not guaranteed station observations. Accurac
 
 <!-- Screenshot placeholder: add a desktop/mobile capture at docs/screenshot.png after running the app. -->
 
-_Screenshot placeholder — run the application and add `docs/screenshot.png` here._
+<img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/f60b2fe1-8596-4cd2-8b74-45b6c332b6e9" />
+
